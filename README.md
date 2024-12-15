@@ -125,6 +125,6 @@ Contributions are welcome! Feel free to submit a pull request or raise an issue 
 
 ---
 
-## Contact
-For any inquiries or feedback, please reach out via [email@example.com](mailto:email@example.com).
+## Citation
+Walter Reade and Elizabeth Park. Regression with an Insurance Dataset. https://kaggle.com/competitions/playground-series-s4e12, 2024. Kaggle.
 
