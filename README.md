@@ -66,11 +66,10 @@ The project culminates with predictions on a test dataset, leveraging the best-p
   - lightgbm
   - optuna
   - matplotlib
+  - seaborn
+  - xgboost
+    
 
-Install the dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
 ### Running the Project
 1. **Preprocessing and Model Training**
