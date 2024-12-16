@@ -110,7 +110,8 @@ The project culminates with predictions on a test dataset, leveraging the best-p
 ## Feature Importances
 A bar plot of the top 10 most important features influencing the `Premium Amount` prediction:
 
-![Feature Importances](images/feature_importances.png)
+![output_29_1](https://github.com/user-attachments/assets/5c1aa084-1c68-4d09-adf8-3a878f17f242)
+
 
 ---
 
